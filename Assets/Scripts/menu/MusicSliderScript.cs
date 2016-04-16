@@ -10,6 +10,5 @@ public class MusicSliderScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
-	}
+    }
 }
