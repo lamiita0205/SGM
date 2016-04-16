@@ -81,7 +81,14 @@
     <Compile Include="Assets\Scripts\follow.cs" />
     <Compile Include="Assets\Scripts\managers\GUIManager.cs" />
     <Compile Include="Assets\Scripts\managers\gameManager.cs" />
-    <Compile Include="Assets\Scripts\menu\Spritee.cs" />
+    <Compile Include="Assets\Scripts\menu\BackButtonScript.cs" />
+    <Compile Include="Assets\Scripts\menu\EffectsSliderScript.cs" />
+    <Compile Include="Assets\Scripts\menu\ExitButtonScript.cs" />
+    <Compile Include="Assets\Scripts\menu\Level1ButtonScript.cs" />
+    <Compile Include="Assets\Scripts\menu\Level2ButtonScript.cs" />
+    <Compile Include="Assets\Scripts\menu\MusicSliderScript.cs" />
+    <Compile Include="Assets\Scripts\menu\OptionButtonScript.cs" />
+    <Compile Include="Assets\Scripts\menu\StartButtonScript.cs" />
     <Compile Include="Assets\sprite.cs" />
     <Compile Include="Assets\testaudio.cs" />
   </ItemGroup>

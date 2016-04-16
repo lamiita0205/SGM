@@ -85,16 +85,6 @@ public class FirstPersonController : MonoBehaviour
         }
     }
 
-/*    IEnumerator Example()
-    {
-        Debug.Log("Before Waiting 20 seconds");
-        yield return new WaitForSeconds(20);
-        Debug.Log("After Waiting 20 Seconds");
-
-        SceneManager.LoadScene("Level2");
-    }
-*/
-
     void OnCollisionEnter(Collision collision)
     {   
         if (collision.gameObject.tag == "Dujman")
